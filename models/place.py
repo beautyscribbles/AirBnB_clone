@@ -4,4 +4,7 @@
 from models.base_model import BaseModel
 
 
+class Place(BaseModel):
+    """Implementation_of the place_class"""
+
 
